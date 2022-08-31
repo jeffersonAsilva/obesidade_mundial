@@ -4,4 +4,4 @@
 
 ## Projeto Obesidade Mundial.
 
-Objetivo é utilização da bibliotecas pandas ,numpy,matplotlib do python, utilizar algumas ferramentas dela para analisar dados.
+Objetivo é utilização da bibliotecas pandas ,numpy,matplotlib do python, como ferramentas de exploração de dados.
